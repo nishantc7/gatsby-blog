@@ -2,7 +2,7 @@
 title: Random Anime Reviews
 author: nishantc7
 description: Random recommendations
-date: 07.06.2020
+date: 07-06-2020
 ---
 
 Here's my first blog, and I can't help but write about **anime**. They have become a part of my lifestyle and teach me trivial, though important aspects of life.

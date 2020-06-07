@@ -33,6 +33,7 @@ export const query = graphql`
         node {
           id
           frontmatter {
+            date
             author
             description
             title
