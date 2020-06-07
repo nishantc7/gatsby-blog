@@ -1,9 +1,11 @@
 ---
-title: Recently Watched Anime
+title: Random Anime Reviews
 author: nishantc7
-description: Recommendations from recently watched anime
+description: Random recommendations
+date: 07.06.2020
 ---
 
+Here's my first blog, and I can't help but write about **anime**. They have become a part of my lifestyle and teach me trivial, though important aspects of life.
 
 ## Movies
 
@@ -14,7 +16,7 @@ description: Recommendations from recently watched anime
 
 This is one the most beautiful movies I've ever watched. The animation and art is just beautiful. The scene where the meteorite splits in two in the sky is absolutely breathtaking. The concept of two people switching soul in the movie is not exactly the first in fantasy storytelling, but the way it has been executed is very fresh. The story leaves you craving more but also with somewhat peace of mind. The music is mesmerizing. I really loved the songs. All together this romantic, supernatural movie is a ***must watch*** according to me.
 
-### Sequel/Prequel
+### Shows
 
 **Kizumonogatari : Tekketsu-Hen/Nekketsu-Hen**
 
@@ -76,6 +78,6 @@ This one is one of my latest watches. I love ***stuck-in-the-MMORPG-have-to-lead
 
 Ending my list with probably my most **adrenaline filled** anime on this list! I am not particularly a fan of sports anime but this was different. Haikyuu is one of those shounen anime that never lets you down with a boring episode. The tension is always in the air. There is no telling when suddenly someone unnoticed from opponent team is going to shine just when you were feeling confident! Haikyuu means *volleyball* literally! I've often heard *Haikyuu* is one the most accurate sports anime out there. Though I personally have not much experience in volleyball, I could feel the hard work that goes into the game just to be able to play even 5 minutes in a real match! The struggle is very well shown in the series. I recommend you start watching right now.  
 
-###Here's my [myanimelist](https://myanimelist.net/animelist/nishantc7?status=7&order=4&order2=0) for some more references.
+### Here's my [myanimelist](https://myanimelist.net/animelist/nishantc7?status=7&order=4&order2=0) for some more references. Thanks for reading till the end :)  
 
 
