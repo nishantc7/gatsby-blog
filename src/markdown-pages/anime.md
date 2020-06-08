@@ -46,7 +46,7 @@ More information on the series order or the series in general can be found in th
 
 ![cover_nisekoi2ova](https://i.imgur.com/OQlCSQ7.png)
 
-**#teamchitoge.** Now that all the *Chitoge* fans are gone, I love the series just because I love *Onodera*. She's just too damn cute. And all the faces she makes! I think *Nisekoi* probably should win the **most-different-faces-of-the-same-character-award**. Coming to the OVA I was actually thinking there would be a 3rd season (no updates yet)! But I enjoyed just being able to spend more time with the comfortable characters after a long time! So thumbs up for this one! I went ahead to read the manga and that definitely does'nt disappoint!
+**#teamonodera.** Now that all the *Chitoge* fans are gone, I love the series just because I love *Onodera*. She's just too damn cute. And all the cute faces she makes! I think *Nisekoi* probably should win the **most-different-faces-of-the-same-character-award**. Coming to the OVA I was actually thinking there would be a 3rd season (no updates yet)! But I enjoyed just being able to spend more time with the comfortable characters after a long time! So thumbs up for this one! I went ahead to read the manga and that definitely does'nt disappoint!
 
   
   
